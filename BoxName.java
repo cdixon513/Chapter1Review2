@@ -1,0 +1,8 @@
+
+public class BoxName {
+	public static void main(String[] args){
+		System.out.println("+---------+");
+		System.out.println("| Corinne |");
+		System.out.println("+---------+");
+	}
+}
